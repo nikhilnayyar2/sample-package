@@ -1,1 +1,3 @@
-console.log(1)
+const sampleValue = 1;
+
+export default sampleValue;
