@@ -1,3 +1,7 @@
-const sampleValue = 1;
+function generateRandomValue() {
+  return Math.random();
+}
+
+const sampleValue = generateRandomValue();
 
 export default sampleValue;
